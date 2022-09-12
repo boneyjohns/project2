@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    width: 154px;
+    height: 56px;
+}
+.puttu img{
+    width: 1350px;
+}
+.mainmenu{
+    height: 80px;
+    display: flex;
+align-items: center;
+
+}
+.mainmenu a{
+    font-size: 20px;
+    color: rgb(4, 88, 4);
+    margin-left: 60px;
+    text-decoration: none;
+}
+.mainhead{
+    margin: 40px;
+    color: #23A455;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Sans-serif;
+}
+.para p{
+    font-size: 24px;
+    text-align: center;
+    color: darkslategray;
+    font-weight: 600;
+}
+.para{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(136, 135, 135);
+}
+.mainhead2{
+    margin: 60px;
+    color: #24bb5e;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Sans-serif;
+}
+.recipes{
+    text-align: center;
+    font-size: 18px;
+    color: darkgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+    .recipes button{
+color: red;
+background-color: springgreen;
+border-color: springgreen;
+}    
+
+.img1{
+ 
+width: 400px;
+height: 400px;
+}
+.img2{
+    width: 400px;
+    height: 400px;
+ 
+}
+.img3{
+    width: 400px;
+    height: 400px;
+
+}
+.shopping{
+    margin-top: 50px;
+    display: flex;
+
+    }
+.shopping img{
+    width: 340px;
+    height: 300px;
+}
+.packs{
+    display: flex;
+}
+.packs h1{
+    color: #23A455;
+    font-size: 25px;
+    margin: 0 60px;
+}
+.amazon{
+    display: flex;
+}
+.amazon img{
+    margin: 20px;
+}
+.lastimg{
+    
+    display: flex;
+}
+.lastimg img{
+    margin: 80px;
+    width: 500px;
+    height: 500px;
+}
+.video{
+    
+padding-left: 40px;
+}
+.footer{
+    margin: 5px 40px;
+    background-color: black;
+    display:flex ;
+}
+.footer div{
+    width: 400px;
+}
+.footer h4{
+    color: aliceblue;
+    padding-bottom: 30px;
+    text-align:center ;
+    padding-top: 20px;
+}
+.footer p {
+    color: aliceblue;
+    font-size: 20pz;
+    line-height-step: 20px;
+    padding-left: 50px;
+}
+.footer a{
+    padding-left: 150px;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 18px;
+}
